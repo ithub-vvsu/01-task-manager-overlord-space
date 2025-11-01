@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=21412130)
 # Go (Golang) Codespaces starter template
 
 Welcome, Gopher! This repository is a template for you to use in your next (or existing) Go project so you can take advantage of [Visual Studio Codespaces](https://visualstudio.microsoft.com/services/visual-studio-codespaces/), or the brand-new [GitHub Codespaces](https://github.com/features/codespaces).
